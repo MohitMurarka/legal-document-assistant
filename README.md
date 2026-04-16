@@ -176,12 +176,14 @@ The sidebar shows:
 
 ```
 legal-document-assistant/
+├── assets/                  # Images (e.g., README demo image)
+├── agent.py                 # Core agent logic (LangGraph / orchestration)
 ├── capstone_streamlit.py    # Main Streamlit application
 ├── day13_capstone.ipynb     # Development notebook with RAGAS evaluation
 ├── requirements.txt         # Python dependencies
 ├── .env.example             # Environment variable template
 ├── .gitignore               # Git ignore rules
-└── README.md                # This file
+└── README.md                # Project documentation
 ```
 
 ---
