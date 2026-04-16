@@ -17,7 +17,7 @@
 
 ---
 
-![Legal Document Assistant Demo](https://raw.githubusercontent.com/YOUR_USERNAME/legal-document-assistant/main/assets/demo.png)
+![Legal Document Assistant Demo](https://raw.githubusercontent.com/MohitMurarka/legal-document-assistant/main/assets/demo.png)
 
 </div>
 
@@ -112,7 +112,7 @@ User Question
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/legal-document-assistant.git
+git clone https://github.com/MohitMurarka/legal-document-assistant.git
 cd legal-document-assistant
 ```
 
@@ -246,7 +246,7 @@ This tool is for **educational and research purposes only**. It is not a substit
 
 <div align="center">
 
-Made with ❤️ by [Mohit Murarka](https://github.com/YOUR_USERNAME)
+Made with ❤️ by [Mohit Murarka](https://github.com/MohitMurarka)
 
 ⭐ Star this repo if you found it useful!
 
